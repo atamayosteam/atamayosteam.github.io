@@ -20,3 +20,26 @@ body {
     h1{
         color:#d1d1e9;
     }
+
+    #header{
+        background-color: blueviolet;
+        color: rgba(255, 255, 255, 0.473);
+        text-align: center; 
+    }
+
+    #navbar {
+        background-color: cornflowerblue;
+        color: aliceblue;
+        height: 35px;
+        display: inline-block;
+     }
+
+    #navbar > a:hover {
+        color: aliceblue;
+        padding: 20px;
+        background-color: aquamarine;
+
+    }
+
+    
+
