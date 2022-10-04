@@ -5,8 +5,16 @@ body {
 
     font-family:'Dosis', sans-serif;
     background-color: #2b2c34;
-    color: #94a1b2;
+    color: #0a050d;
+    max-width: 600px;
+    margin: 0 auto;
+    
+    
+}
 
+main {
+    max-width: 768px;
+    margin: 0 auto;
 }
 
     h1, h2, h3, h4, h5, h6 {
@@ -14,7 +22,7 @@ body {
     } 
 
     a:hover {
-        background-color: aqua;
+        background-color: rgb(53, 3, 114);
     }
     
     h1{
@@ -22,22 +30,22 @@ body {
     }
 
     #header{
-        background-color: blueviolet;
+        background-color: rgb(50, 4, 92);
         color: rgba(255, 255, 255, 0.473);
         text-align: center; 
     }
 
     #navbar {
-        background-color: cornflowerblue;
-        color: aliceblue;
+        background-color: rgb(69, 15, 185);
+        color: rgb(81, 9, 120);
         height: 35px;
         display: inline-block;
      }
 
     #navbar > a:hover {
-        color: aliceblue;
+        color: rgb(6, 1, 11);
         padding: 20px;
-        background-color: aquamarine;
+        background-color: rgb(60, 3, 96);
 
     }
 
