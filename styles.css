@@ -49,5 +49,16 @@ main {
 
     }
 
+    @media screen and (max-width: 480p){
+        #my_photo {
+            width: 100vw;
+            height:auto;
+        }
+        #navbar {
+            text-align: center;
+        }
+        
+
+    }
     
 
