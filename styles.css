@@ -4,8 +4,8 @@
 body {
 
     font-family:'Dosis', sans-serif;
-    background-color: #2b2c34;
-    color: #0a050d;
+    background-color: #0d1551;
+    color: white;
     max-width: 600px;
     margin: 0 auto;
     
@@ -22,30 +22,29 @@ main {
     } 
 
     a:hover {
-        background-color: rgb(53, 3, 114);
+        background-color: rgb(175, 29, 29);s
     }
     
     h1{
-        color:#d1d1e9;
+        color: white;
     }
 
     #header{
         background-color: rgb(50, 4, 92);
-        color: rgba(255, 255, 255, 0.473);
+        color: white;
         text-align: center; 
     }
 
     #navbar {
-        background-color: rgb(69, 15, 185);
+        background-color: rgb(134, 104, 198);
         color: rgb(81, 9, 120);
         height: 35px;
         display: inline-block;
      }
-
     #navbar > a:hover {
-        color: rgb(6, 1, 11);
+        color: white;
         padding: 20px;
-        background-color: rgb(60, 3, 96);
+        background-color: rgb(92, 3, 92);
 
     }
 
