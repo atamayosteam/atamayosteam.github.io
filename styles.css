@@ -35,7 +35,7 @@ main {
     } 
 
     a:hover {
-        background-color: rgb(175, 29, 29);s
+        background-color: rgb(175, 29, 29);
     }
     
 
@@ -52,6 +52,7 @@ main {
         display: inline-block;
      }
     #navbar > a:hover {
+        display: inline-block;
         color: white;
         padding: 20px;
         background-color: rgb(92, 3, 92);
