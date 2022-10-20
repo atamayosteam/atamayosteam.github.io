@@ -6,11 +6,24 @@ body {
     font-family:'Dosis', sans-serif;
     background-color: #0d1551;
     color: white;
-    max-width: 600px;
     margin: 0 auto;
-    
+    padding: 0;
     
 }
+.box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    box-sizing: border-box;
+    background: #8617a8;
+    border-radius: 4px;
+
+}
+
+
 
 main {
     max-width: 768px;
