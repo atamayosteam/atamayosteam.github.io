@@ -77,9 +77,9 @@ span{
 }
 
 .images img{
-  height: 50%;
+  height: 80%;
   position: absolute;
-  left: 35%;
+  left: 45%;
   bottom: 0;
   transform: translate(-50%)
 
