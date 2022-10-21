@@ -45,6 +45,12 @@ main {
         text-align: center; 
     }
 
+    #portrait {
+      float: left;
+      margin-right: 8px;
+      border-radius: 10%;
+  }
+
     #navbar { 
       background-color: black;
       color: white;
