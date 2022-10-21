@@ -84,3 +84,7 @@ span{
   transform: translate(-50%)
 
 }
+
+body{
+  background-color: lightgrey;
+}
