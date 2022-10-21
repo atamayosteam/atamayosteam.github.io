@@ -41,3 +41,9 @@ nav ul li a:hover{
   margin-left: 8%;
   margin-top: 15%;
 }
+
+.detel h1{
+  font-size: 40px;
+  color: #212121;
+  margin-bottom: 20px;
+}
