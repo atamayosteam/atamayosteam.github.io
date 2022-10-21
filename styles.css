@@ -45,19 +45,22 @@ main {
         text-align: center; 
     }
 
-    #navbar {
-        background-color: rgb(134, 104, 198);
-        color: rgb(81, 9, 120);
-        height: 35px;
-        display: inline-block;
-     }
-    #navbar > a:hover {
-        display: inline-block;
-        color: white;
-        padding: 20px;
-        background-color: rgb(92, 3, 92);
-
-    }
+    #navbar { 
+      background-color: black;
+      color: white;
+  }
+  
+  #navbar > a {
+      display: inline-block;
+      padding: 8px 6px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+  }
+  
+  #navbar > a:hover {
+      background-color: darkslategray;
+  }
 
     @media screen and (max-width: 480p){
         #my_photo {
