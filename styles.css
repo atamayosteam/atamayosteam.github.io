@@ -27,13 +27,7 @@ nav ul li{
   margin: 10px 20px;
 }
 
-nav ul li a{
-  text-align: none;
-  color: #000;
-  font-weight: bold;
-
-}
-
-nav ul li a:hover{
-  color: blueviolet;
+.detel{
+  margin-left: 8%;
+  margin-top: 15;
 }
