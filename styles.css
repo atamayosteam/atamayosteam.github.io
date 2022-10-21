@@ -70,7 +70,7 @@ span{
 
 .images{
   width: 45%;
-  height: 70%;
+  height: 80%;
   position: absolute;
   bottom: 0;
   right: 100px;
@@ -79,7 +79,7 @@ span{
 .images img{
   height: 100%;
   position: absolute;
-  left: 45%;
+  left: 50%;
   bottom: 0;
   transform: translate(-50%)
 
